@@ -1,3 +1,1 @@
 Flask==3.0.0
-- name: Install dependencies
-  run: pip install -r requirements.txt
