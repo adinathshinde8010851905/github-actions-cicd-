@@ -1,2 +1,13 @@
-# cicd-github-actions
-Implemented CI/CD pipelines using GitHub Actions to automate build, test, and deployment processes, improving deployment speed and reliability.
+# GitHub Actions CI/CD Pipeline
+
+This project demonstrates a CI/CD pipeline using GitHub Actions.
+
+## Features
+- Automated build and test on every push
+- Docker image build
+- Sample deployment step
+
+## Tools Used
+- GitHub Actions
+- Docker
+- Python (Flask)
